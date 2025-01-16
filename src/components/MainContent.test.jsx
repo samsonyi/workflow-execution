@@ -22,3 +22,5 @@ describe("MainContent", () => {
     expect(screen.getByTestId("help-area")).toBeInTheDocument();
   });
 });
+
+// Need a commit
